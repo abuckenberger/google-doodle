@@ -1,3 +1,20 @@
-# Web 2 Starter
+# Google Doodle
 
-Put information about your project here. 
+## BRAINSTORM
+
+*FEMINISM
+*TYPOGRAPHY
+*KANYE
+*OLD ENGLISH
+*UNITY
+*PIZZA
+
+## RESEARCH FOR IDEAS
+
+*LINKS
+*MOVIES
+*PRESENTATIONS
+*TED TALKS
+*ANYTHING RELATED TO TOPIC
+
+
