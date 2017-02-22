@@ -15,5 +15,17 @@ console.log(numRand);
 
 // DISPLAY RANDOMIZED IMAGES
 
-$('img').attr('src', eval('img' + numRand));
+$('#random').attr('src', eval('img' + numRand));
+
+.line
+    
+    {
+        fill-rule:evenodd;
+        clip-rule:evenodd;
+        fill:none;
+        stroke:#999999;
+        stroke-width:3;
+        stroke-miterlimit:10;
+    }
+    
 

@@ -2,6 +2,42 @@
 
 @import 'google-homepage';
 
-body {
-    background: tan;  
-};
+
+// FIRST FRAME
+
+
+img {
+    
+    transform: scale(.25);
+    
+    
+    opacity: .5;
+    width:50%; 
+    
+    
+    transition: opacity 1s;
+    transition: transform 2s;
+    
+    
+}
+
+
+// LAST FRAME
+
+img:hover {
+    transform: scale(1);
+    
+    opacity:1;
+    transition: opacity 1s;
+    
+    
+}
+
+
+
+<style type="text/css">
+	.line
+    
+    {fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#999999;stroke-width:3;stroke-miterlimit:10;}
+    
+</style>
