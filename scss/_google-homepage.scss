@@ -20,9 +20,8 @@
 img {
     
     
-    position:absolute;
-    
-    transform: scale(.25);
+    display: inline-block;
+    transform: scale(.5);
     
     
     opacity: .5;
@@ -33,13 +32,15 @@ img {
     transition: transform 2s;
     
     
+    
+    
 }
 
 
 // LAST FRAME
 
  img:hover {
-    transform: scale(1);
+    transform: scale(1.5);
     
     opacity:1;
     transition: opacity 1s;
