@@ -3,7 +3,7 @@
 /* Stage */
 
 #stage {
-    background: gray;
+    background: white;
     height: 300px;
     width: 600px;
 }
@@ -14,6 +14,8 @@
 }
 
 // FIRST FRAME
+
+
 
 
 img {
@@ -37,7 +39,7 @@ img {
 
 // LAST FRAME
 
-img:hover {
+.G .O .OO .GG .L .E:hover {
     transform: scale(1);
     
     opacity:1;
@@ -45,7 +47,24 @@ img:hover {
     
     
 }
-
+.G {
+    margin-left: -350px;
+}
+.O {
+    margin-left: -300px;
+}
+.OO {
+    margin-left: -250px;
+}
+.GG {
+    margin-left: -200px;
+}
+.L {
+    margin-left: -150px;
+}
+.E {
+    margin-left: -100px;
+}
 
 
 /* DO NOT EDIT BELOW THIS LINE */
