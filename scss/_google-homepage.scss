@@ -39,7 +39,7 @@ img {
 
 // LAST FRAME
 
-.G .O .OO .GG .L .E:hover {
+ img:hover {
     transform: scale(1);
     
     opacity:1;
@@ -47,6 +47,8 @@ img {
     
     
 }
+
+
 .G {
     margin-left: -350px;
 }
@@ -61,9 +63,11 @@ img {
 }
 .L {
     margin-left: -150px;
+    margin-top: -10px;
 }
 .E {
     margin-left: -100px;
+    margin-top: -22px;
 }
 
 
