@@ -17,15 +17,6 @@ console.log(numRand);
 
 $('#random').attr('src', eval('img' + numRand));
 
-.line
-    
-    {
-        fill-rule:evenodd;
-        clip-rule:evenodd;
-        fill:none;
-        stroke:#999999;
-        stroke-width:3;
-        stroke-miterlimit:10;
-    }
+
     
 

@@ -13,6 +13,39 @@
     width: 100px;
 }
 
+// FIRST FRAME
+
+
+img {
+    
+    
+    position:absolute;
+    
+    transform: scale(.25);
+    
+    
+    opacity: .5;
+    width:50%; 
+    
+    
+    transition: opacity 1s;
+    transition: transform 2s;
+    
+    
+}
+
+
+// LAST FRAME
+
+img:hover {
+    transform: scale(1);
+    
+    opacity:1;
+    transition: opacity 1s;
+    
+    
+}
+
 
 
 /* DO NOT EDIT BELOW THIS LINE */
