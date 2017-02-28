@@ -15,60 +15,27 @@
 
 // FIRST FRAME
 
+#random {
 
-
-img {
-    
-    
-    display: inline-block;
-    transform: scale(.5);
-    
-    
-    opacity: .5;
-    width:50%; 
-    
-    
-    transition: opacity 1s;
-    transition: transform 2s;
-    
-    
-    
-    
+  transform: scale(.15);
+  transform-origin: 50% 50%;
+  
 }
 
 
 // LAST FRAME
 
- img:hover {
-    transform: scale(1.5);
-    
-    opacity:1;
-    transition: opacity 1s;
-    
-    
+#random:hover {
+
+  transform: scale(.55);
+  transform-origin: 50% 50%;
+  
 }
 
 
-.G {
-    margin-left: -350px;
-}
-.O {
-    margin-left: -300px;
-}
-.OO {
-    margin-left: -250px;
-}
-.GG {
-    margin-left: -200px;
-}
-.L {
-    margin-left: -150px;
-    margin-top: -10px;
-}
-.E {
-    margin-left: -100px;
-    margin-top: -22px;
-}
+
+
+
 
 
 /* DO NOT EDIT BELOW THIS LINE */
