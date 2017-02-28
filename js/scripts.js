@@ -1,3 +1,10 @@
+//FLASH
+$('input').click(function(){
+    
+ $('#google').addClass('flash'); 
+  
+});
+
 // STORE 3 IMAGES
 
 var img0 = '../img/200.jpg';
@@ -18,5 +25,4 @@ console.log(numRand);
 $('#random').attr('src', eval('img' + numRand));
 
 
-    
 

@@ -12,25 +12,22 @@
     height: 100px;
     width: 100px;
 }
-
-// FIRST FRAME
-
-#random {
-
-  transform: scale(.15);
-  transform-origin: 50% 50%;
-  
+.flash {
+  animation: flash .25s infinite;
 }
 
+// flash animation
 
-// LAST FRAME
+@keyframes flash {
+  from, 50%, to {
+    opacity: 1;
+  }
 
-#random:hover {
-
-  transform: scale(.55);
-  transform-origin: 50% 50%;
-  
+  25%, 75% {
+    opacity: 0;
+  }
 }
+
 
 
 
