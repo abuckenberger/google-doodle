@@ -26,5 +26,15 @@ console.log(numRand);
 
 $('#random').attr('src', eval('img' + numRand));
 
+// Store SVG points
+var google = $('#path').drawsvg({
+  duration : 50,
+  reverse: true,
+  stagger: 100
+});
+
+
+// Animate SVG points
+google.drawsvg('animate');
 
 
