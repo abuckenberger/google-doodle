@@ -39,12 +39,17 @@
 
 
 #random {
-    position:absolute;
-    display: block;
-    margin: 0 auto;
-    transform: scale(.25) translateY(0px);
+   
+    display:block;
+    transform: scale(.35) translateY(0px);
     transform-origin: 50% 50%;
+    cursor: pointer;
+    padding: 1em;
+    text-align: center;
+    margin: 0 auto;
 }
+
+
 
 
 
