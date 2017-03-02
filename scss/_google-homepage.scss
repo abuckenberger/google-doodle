@@ -39,9 +39,11 @@
 
 
 #random {
+    position:absolute;
     display: block;
     margin: 0 auto;
     border-radius: 100%;
+    transition: scale .2s;
 }
 
 
