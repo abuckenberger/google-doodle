@@ -5,6 +5,11 @@ $('input').click(function(){
   
 });
 
+$('#random').click(function(){
+    
+ $('button').addClass('flash'); 
+  
+});
 // STORE 3 IMAGES
 
 var img0 = '../img/200.svg';
