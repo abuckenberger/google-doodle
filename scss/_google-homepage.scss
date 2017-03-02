@@ -2,11 +2,16 @@
 
 /* Stage */
 
+#path{
+    width:100%;
+    fill:none;
+}
 #stage {
     background: white;
-    height: 300px;
-    width: 600px;
-    overflow: hidden;
+    height: 400px;
+    width: 700px;
+    overflow:hidden;
+    
 }
 
 #stage #star {
@@ -51,9 +56,6 @@
     margin: 0 auto;
 }
 
-#path{
-    height:50%;
-}
 
 
 
