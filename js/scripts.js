@@ -12,7 +12,7 @@ $('#random').click(function(){
 });
 // STORE 3 IMAGES
 
-var img0 = '../img/200.svg';
+var img0 = '../img/200.png';
 var img1 = '../img/300.svg';
 var img2 = '../img/400.svg';
 var img3 = '../img/500.svg';
