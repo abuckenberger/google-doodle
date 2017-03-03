@@ -12,11 +12,11 @@ $('#random').click(function(){
 });
 // STORE 3 IMAGES
 
-var img0 = '../img/200.jpg';
-var img1 = '../img/300.jpg';
-var img2 = '../img/400.jpg';
-var img3 = '../img/500.jpg';
-var img4 = '../img/600.jpg';
+var img0 = '../img/200.svg';
+var img1 = '../img/300.svg';
+var img2 = '../img/400.svg';
+var img3 = '../img/500.svg';
+var img4 = '../img/600.svg';
 
 
 
