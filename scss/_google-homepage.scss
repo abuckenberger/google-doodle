@@ -46,18 +46,14 @@
 }
 
 
-#random {
+.center {
    
     display:block;
     transform: scale(.35) translateY(0px);
     transform-origin: 50% 50%;
     cursor: pointer;
     padding: 1em;
-    text-align: center;
-    margin-top: -50px;
-    margin-left: -25px;
-    align-items: flex-start;
-    translate: 0;
+    margin:0 auto;
 }
 
 .btn {
